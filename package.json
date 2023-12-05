@@ -1,0 +1,11 @@
+{
+  "name": "aoc-project",
+  "type": "module",
+  "scripts": {
+    "dag1": "node ./dag1-2.mjs dag1-input",
+    "dag1-test": "node ./dag1-2.mjs dag1-voorbeeld",
+
+    "dag2": "node ./dag2.mjs dag2-input",
+    "dag2-test": "node ./dag2.mjs dag2-voorbeeld"
+  }
+}
